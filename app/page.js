@@ -69,8 +69,8 @@ export default function Home() {
           <Box
             sx={{
               background: "radial-gradient(circle at center, rgba(61, 35, 33,0.3),rgba(61, 35, 33,1))",
-              width: 800,
-              height: 800,
+              width: 650,
+              height: 650,
               borderRadius: "50%",
               position: "absolute",
               left: "20%",

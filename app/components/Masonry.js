@@ -82,7 +82,7 @@ export default function Masonry() {
         </Stack>
         <Stack
           direction="row"
-          width="50vw"
+          width="62vw"
           alignItems={"center"}
           alignSelf={"center"}
           mx="auto"
