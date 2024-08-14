@@ -13,7 +13,7 @@ import DesignTeams from "./components/DesignTeams";
 
 export default function Home() {
 	const [category, setCategory] = useState('Comedians');
-	const [image, setImage] = useState('/images/zakir.jpeg'); // replace with your image URL
+	const [image, setImage] = useState('/images/image4.png'); // replace with your image URL
 
   
 	const categories = ['Comedians', 'Dancer', 'Singers'];
